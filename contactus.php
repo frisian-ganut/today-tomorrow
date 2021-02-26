@@ -15,15 +15,15 @@
 <table border = "0" width = "1300" align = "center" cellspacing = "4" cellpadding = "7" align = "center">
 <tr height = "50">
 <td width = "580"><img src = "logo.jpg" width = "50" alt = "logo"></td>
-	<td align = "center" width = "150" height = "50"><a href = "homepage.html" title = "Go to Home"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white;"><font size = "4"><b>HOME</b></font></button></a></td>
+	<td align = "center" width = "150" height = "50"><a href = "index.php" title = "Go to Home"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white;"><font size = "4"><b>HOME</b></font></button></a></td>
 
-	<td align = "center" width = "150" height = "50"><a href = "today.html" title = "Go to Today"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>TODAY</b></font></button></a></td>
+	<td align = "center" width = "150" height = "50"><a href = "today.php" title = "Go to Today"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>TODAY</b></font></button></a></td>
 
-	<td align = "center" width = "150" height = "50"><a href = "tomorrow.html" title = "Go to Tomorrow"><button class = "button" style = "width:130;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>TOMORROW</b></font></button></a></td>
+	<td align = "center" width = "150" height = "50"><a href = "tomorrow.php" title = "Go to Tomorrow"><button class = "button" style = "width:130;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>TOMORROW</b></font></button></a></td>
 
-	<td align = "center" width = "150" height = "50"><a href = "contactus.html" title = "Go to Contact"><button class = "button" style = "width:150;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>CONTACT US</b></font></button></a></td>
+	<td align = "center" width = "150" height = "50"><a href = "contactus.php" title = "Go to Contact"><button class = "button" style = "width:150;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>CONTACT US</b></font></button></a></td>
 
-	<td align = "center" width = "150" height = "50"><a href = "content.html" title = "Go to content"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>CONTENT</b></font></button></a></td>
+	<td align = "center" width = "150" height = "50"><a href = "content.php" title = "Go to content"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>CONTENT</b></font></button></a></td>
 
 	<td align = "center" width = "30"><a href = "https://twitter.com" title = "Twitter"> <img src = "twitter.jpg" width = "30" height = "30"></a></td>
 
