@@ -44,8 +44,6 @@
 </tr>
 </table>
 
-<embed src = "yt1s.com - Red Velvet  Psycho Piano Cover Melancholy Ver.mp3" type = "audio/mp3" autoplay = "true"> </embed>
-
 <div id = "about">
 <table border = "0" width = "1300" height = "100" align = "center" bgcolor = "#0b1116">
 <tr>
@@ -242,6 +240,8 @@
 
 <p align = "center"> 
 <embed style = "width:720px; height:450px;" src = "https://www.youtube.com/embed/lFeT2LLeocM"></embed>
+
+<embed src = "yt1s.com - Red Velvet  Psycho Piano Cover Melancholy Ver.mp3" type = "audio/mp3" autoplay = "true"> </embed>
 
 </body>
 </html>
