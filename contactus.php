@@ -43,8 +43,6 @@
 </tr>
 </table>
 
-<embed src = "yt1s.com - Red Velvet  Psycho Piano Cover Melancholy Ver.mp3" type = "audio/mp3" autoplay = "true"> </embed>
-
 <!------Contact us------> 
 
 <div id = "contact">
@@ -104,5 +102,7 @@
 </table>
 </div>
 
+<embed src = "yt1s.com - Red Velvet  Psycho Piano Cover Melancholy Ver.mp3" type = "audio/mp3" autoplay = "true"> </embed>
+	
 </body>
 </html>
