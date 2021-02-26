@@ -4,8 +4,8 @@
 <link rel = "icon" href = "logo.jpg">
 </head>
 	<frameset rows = "50%, 50%">
-	<frame src = "frame1.html">
-	<frame src = "frame2.html">
+	<frame src = "frame1.php">
+	<frame src = "frame2.php">
 </frameset>
 
 </frameset>
