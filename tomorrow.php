@@ -16,13 +16,13 @@
 <tr height = "50">
 <td width = "580"><img src = "logo.jpg" width = "50" alt = "logo"></td>
 
-	<td align = "center" width = "150" height = "50"><a href = "homepage.html" title = "Go to Home"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white;"><font size = "4"><b>HOME</b></font></button></a></td>
+	<td align = "center" width = "150" height = "50"><a href = "index.php" title = "Go to Home"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white;"><font size = "4"><b>HOME</b></font></button></a></td>
 
-	<td align = "center" width = "150" height = "50"><a href = "today.html" title = "Go to Today"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>TODAY</b></font></button></a></td>
+	<td align = "center" width = "150" height = "50"><a href = "today.hphp" title = "Go to Today"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>TODAY</b></font></button></a></td>
 
-	<td align = "center" width = "150" height = "50"><a href = "tomorrow.html" title = "Go to Tomorrow"><button class = "button" style = "width:130;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>TOMORROW</b></font></button></a></td>
+	<td align = "center" width = "150" height = "50"><a href = "tomorrow.php" title = "Go to Tomorrow"><button class = "button" style = "width:130;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>TOMORROW</b></font></button></a></td>
 
-	<td align = "center" width = "150" height = "50"><a href = "contactus.html" title = "Go to Contact"><button class = "button" style = "width:150;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>CONTACT US</b></font></button></a></td>
+	<td align = "center" width = "150" height = "50"><a href = "contactus.php" title = "Go to Contact"><button class = "button" style = "width:150;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>CONTACT US</b></font></button></a></td>
 
 	<td align = "center" width = "150" height = "50"><a href = "content.html" title = "Go to content"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>CONTENT</b></font></button></a></td>
 
