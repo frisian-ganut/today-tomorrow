@@ -47,6 +47,16 @@
 </tr>
 </table>
 
+<table border = "0" width = "1300" align = "center" bgcolor = "#0b1116">
+<tr>
+<td>
+<left>
+	<font face = "verdana" size = "2" color = "white">Send some feedback:</font>
+</left>
+</td>
+</tr>
+</table>
+	
 <table border = "0" width = "1300" height = "300" align = "center" bgcolor = "#101820">
 <tr>
 	<td width = "300">
