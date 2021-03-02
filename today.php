@@ -2,6 +2,10 @@
 <head>
 	<title> Today and Tomorrow </title>
 <link rel = "icon" href = "logo.jpg">
+<style type = "text/css">
+	table.col
+	{border-collapse: collapse}
+</style>
 </head>
 
 <body>
@@ -31,7 +35,7 @@
 </tr>
 </table>
 
-<table border = "0" width = "1300" height = "100" align = "center" bgcolor = "#0b1116">
+<table class = "coll" border = "0" width = "1300" height = "100" align = "center" bgcolor = "#0b1116">
 <tr>
 <td>
 <center>
@@ -42,7 +46,7 @@
 </table>
 
 
-<table border width = "1300" height = "300" align = "center" bgcolor = "#101820">
+<table border = "0"  width = "1300" height = "300" align = "center" bgcolor = "#101820">
 <tr>
 	<td align = "center" width = "325" height = "500"><img src = "tom1.jpg" width = "325" height = "500"></td>
 	<td align = "center" width = "325" height = "500"><img src = "tom2.jpg" width = "325" height = "500"></td>
