@@ -2,41 +2,28 @@
 <head>
 	<title> Today and Tomorrow </title>
 <link rel = "icon" href = "logo.jpg">
-<style>
-	textarea {
-	resize: none;
-	}
-</style>
 </head>
 
 <body>
 <body bgcolor = "#0b1116">
-
 <font face = "verdana" color = "white">
 <table border = "0" width = "1300" align = "center" cellspacing = "4" cellpadding = "7" align = "center">
 <tr height = "50">
 <td width = "580"><img src = "logo.jpg" width = "50" alt = "logo"></td>
-	<td align = "center" width = "150" height = "50"><a href = "index.php" title = "Go to Home"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white;"><font size = "4"><b>HOME</b></font></button></a></td>
-
-	<td align = "center" width = "150" height = "50"><a href = "today.php" title = "Go to Today"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>TODAY</b></font></button></a></td>
-
-	<td align = "center" width = "150" height = "50"><a href = "tomorrow.php" title = "Go to Tomorrow"><button class = "button" style = "width:130;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>TOMORROW</b></font></button></a></td>
-
-	<td align = "center" width = "150" height = "50"><a href = "contactus.php" title = "Go to Contact"><button class = "button" style = "width:150;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>CONTACT US</b></font></button></a></td>
-	
-	<td align = "center" width = "150" height = "50"><a href = "content.php" title = "Go to content"><button class = "button" style = "width:100;height:30;background-color:#0b1116;border:0;color:white"><font size = "4"><b>CONTENT</b></font></button></a></td>
+	<td align = "center" width = "150" height = "50"><a href = "index.php" title = "Go to Home"><font size = "4" color = "white"><b>HOME</b></font></a></td>
+	<td align = "center" width = "150" height = "50"><a href = "today.php" title = "Go to Today"><font size = "4" color = "white"><b>TODAY</b></font></a></td>
+	<td align = "center" width = "150" height = "50"><a href = "tomorrow.php" title = "Go to Tomorrow"><font size = "4" color = "white"><b>TOMORROW</b></font></a></td>
+	<td align = "center" width = "200" height = "50"><a href = "createdby.php" title = "Go to Created By"><font size = "4" color = "white"><b>CREATED BY</b></font></a></td>
+	<td align = "center" width = "150" height = "50"><a href = "content.php" title = "Go to Content"><font size = "4" color = "white"><b>CONTENT</b></font></a></td>
 
 	<td align = "center" width = "30"><a href = "https://twitter.com" title = "Twitter"> <img src = "twitter.jpg" width = "30" height = "30"></a></td>
-
 	<td align = "center" width = "30"><a href = "https://facebook.com" title = "Facebook"> <img src = "facebook.jpg" width = "30" height = "30"></a></td>
-
 	<td align = "center" width = "30"><a href = "https://instagram.com" title = "Instagram"> <img src = "instagram.jpg" width = "30" height = "30"></a></td>
-
 	<td align = "center" width = "30"><a href = "https://youtube.com" title = "YouTube"> <img src = "youtube.jpg" width = "30" height = "30"></a></td>
 </tr>
 
 <tr width = "1300">
-<td width = "1300" align = "center" colspan = "9"></td>
+<td width = "1300" colspan = "9"></td>
 </tr>
 
 <tr>
@@ -44,19 +31,18 @@
 </tr>
 </table>
 
-<div id = "about">
 <table border = "0" width = "1300" height = "100" align = "center" bgcolor = "#0b1116">
 <tr>
 <td>
 <center>
-	<p style = "width:250;height:30;background-color:#0b1116;border:0;color:white"><font size = "7"><b>TODAY</b></font></p>
+	<font face = "verdana" size = "7" color = "white"><b>TODAY</b></font>
 </center>
 </td>
 </tr>
 </table>
-</div>
 
-<table style = "border:0;border-collapse:collapse" width = "1300" height = "300" align = "center" bgcolor = "#101820">
+
+<table border width = "1300" height = "300" align = "center" bgcolor = "#101820">
 <tr>
 	<td align = "center" width = "325" height = "500"><img src = "tom1.jpg" width = "325" height = "500"></td>
 	<td align = "center" width = "325" height = "500"><img src = "tom2.jpg" width = "325" height = "500"></td>
@@ -237,9 +223,11 @@
 </td>
 </tr>
 </table>
-	
+
 <p align = "center"> 
 <embed style = "width:720px; height:450px;" src = "https://www.youtube.com/embed/lFeT2LLeocM"></embed>
+</p>
+
 <br>
 <br>
 <embed src = "yt1s.com - Red Velvet  Psycho Piano Cover Melancholy Ver.mp3" type = "audio/mp3" autoplay = "true"> </embed>
